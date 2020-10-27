@@ -21,16 +21,16 @@ header {
 	text-align: center;
 	font-weight: bold;
 	font-size: 2rem;
-	border-bottom: 8px solid #32ccbc;
+	background: #88B04B;
+	color: #ffffff;
+
+}
+
+header p {
+	margin: 0;
+	padding: 20px 0px;
 }
 
 main {
 	padding: 1rem;
-}
-
-footer {
-	grid-row-start: 2;
-	grid-row-end: 3;
-	padding: 1rem;
-	border-top: 2px solid #f55555;
 }

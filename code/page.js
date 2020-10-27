@@ -31,7 +31,7 @@ const Page = ({ title, stylesheet, header, main, footer, script, _relativeURL, _
 			</main>
 		</div>
 
-		<Footer />
+		<Footer id={_ID} relativeURL={_relativeURL} />
 
 		{
 			script != undefined
