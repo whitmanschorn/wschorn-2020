@@ -1,0 +1,12 @@
+title: Another blog post
+date: 2014-12-12
+
+header:
+  - /_shared/header.md
+
+main:
+  - body.md
+  - posts.md
+
+footer:
+  - /_shared/footer.md
