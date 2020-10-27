@@ -8,7 +8,7 @@ header:                # Our header part of the layout
 
 main:                  # Our main part of the layout
   - body.md
-  - books.md
+  - posts.md
 
 footer:                # Our footer part of the layout
   - /_shared/footer.md # Another reused partial from our _shared folder

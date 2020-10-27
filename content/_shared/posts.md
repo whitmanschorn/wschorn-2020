@@ -1,6 +1,6 @@
 ---
-layout: listPosts
-title: "More News 'n' Updates"
+layout: moreListPosts
+title: "More Blog Posts"
 ---
 
 foo bar baz
