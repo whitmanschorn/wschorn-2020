@@ -15,7 +15,7 @@ const ListPosts = ({ title, _pages, _relativeURL, _ID }) => (
           .sort( ( a, b ) => new Date( _pages[ b ].date ) - new Date( _pages[ a ].date ) )
           .map( ( page, i ) =>
             <li key={ i }>
-              <a href={ `${_relativeURL( _pages[ page ]._url, _ID)}/index.html` }>{ _pages[ page ].title }</a>
+              <a href={ `${_relativeURL( _pages[ page ]._url, _ID)}` }>{ _pages[ page ].title }</a>
             </li>
           )
       }

@@ -18,7 +18,7 @@ const footerLinkStyles = {
 }
 
 const FooterLink = ({ href, children }) => {
-  return <a style={footerLinkStyles} href={`${href}/index.html`}>{children}</a>
+  return <a style={footerLinkStyles} href={`${href}`}>{children}</a>
 }
 
 const Footer = ({ id, relativeURL }) => {
