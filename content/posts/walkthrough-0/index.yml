@@ -1,12 +1,12 @@
-title: Hello World
-date: 2014-12-12
+title: Site Walkthrough - Part 0
+date: 2020-10-21
 
 header:
   - /_shared/header.md
 
 main:
   - body.md
-  - /_shared/posts.md
+  - posts.md
 
 footer:
   - /_shared/footer.md

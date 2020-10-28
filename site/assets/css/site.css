@@ -34,3 +34,9 @@ header p {
 main {
 	padding: 1rem;
 }
+
+.post {
+	max-width: 75ch;
+	margin: 0 auto;
+	text-overflow: ellipsis;
+}

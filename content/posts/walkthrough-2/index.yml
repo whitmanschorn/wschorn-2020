@@ -1,0 +1,12 @@
+title: Site Walkthrough - Part 2
+date: 2020-10-23
+
+header:
+  - /_shared/header.md
+
+main:
+  - body.md
+  - posts.md
+
+footer:
+  - /_shared/footer.md
